@@ -1,0 +1,19 @@
+name: Ask
+version: 1
+api: 3.0.0-ALPHA12
+author:  tungnguyen
+description: Tra Loi Cau Hoi
+main: tung\Main
+
+commands:
+  ask:
+   description:
+   command: /ask
+   permission: ask.tung
+   default: op
+#  trl:
+#   description:
+#   command: /trl
+#   permission: trl.tung
+#   default: true
+   
