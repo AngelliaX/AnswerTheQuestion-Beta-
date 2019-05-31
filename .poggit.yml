@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/TungstenVn/AnswerTheQuestion-Beta-
+branches:
+- master
+projects:
+  TraLoiCauHoi:
+    path: TraLoiCauHoi/
+...
